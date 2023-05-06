@@ -1,5 +1,5 @@
 .background-image{
-    background-image: url("/img/hawaii3.jpg");
+    background-image: url("../img/hawaii3.jpg");
     height: 100%;
     width: 100%;
 }
